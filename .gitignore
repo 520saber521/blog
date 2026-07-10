@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local design extracts / scratch assets
+.figma_extract/
+assets/
+screenshot.png
+
+# Local logs
+*.log
+vite-*.out.log
+vite-*.err.log
+
+# Environment
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
